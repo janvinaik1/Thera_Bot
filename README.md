@@ -6,9 +6,8 @@ Langchain + Google Palm: LLM based Q&A
 Streamlit: UI
 Huggingface instructor embeddings: Text embeddings
 FAISS: Vector databse
-Installation
+Installation :
 1.Clone this repository to your local machine using:
-
   git clone https://github.com/codebasics/langchain.git
 2.Navigate to the project directory:
 
